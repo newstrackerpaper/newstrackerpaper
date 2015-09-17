@@ -1,8 +1,8 @@
 For [1], this repository contains (references to) the implementation, result files of the empirical evaluation and annotated ground truth. 
 
-The artifact io.github.k3nn 0.01 (Maven central) contains the core implementation for 3NN clustering and relevance ranking against recent salient information. The components are generic to allow reuse in projects that use different data types.
+The artifact io.github.k3nn 0.01 (Maven central or working version in https://github.com/k3nn) contains the core implementation for 3NN clustering and relevance ranking against recent salient information. The components are generic to allow reuse in projects that use different data types.
 
-The github repository https://k3nn.github.io/topictracking contains a maven project with the code we used to process the 2013 KBA Streaming Corpus to produce the published results.
+The github repository https://github.io/k3nn/topictracking contains a maven project with the code we used to process the 2013 KBA Streaming Corpus to produce the published results.
 
 In this repository are the TREC results files and the annotated ground truth. The zipped archives contain a sweep of parameter settings. There are four versions:
 <ul>
